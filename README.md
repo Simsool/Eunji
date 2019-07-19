@@ -1,1 +1,1 @@
-<h3>About Me</h3><hr>
+<h3>EunJi Sim</h3><hr>
