@@ -5,5 +5,6 @@
   </ul>
 <h4>Experience</h4>
 <ul><li><b>Web development</b><br>Theatre of SKKU, Project Manager (2018.02 - 2019.03)<br></li>
-  <li><b>Web development</b><br>Industry-University cooperation with Crinity (2018.05 - 2018.12)<br>
+  <li><b>Web development</b><br>Industry-University cooperation with Crinity, Project Manager (2018.05 - 2018.12)<br></li>
+  <li><b>Drone programming</b><br>Software department of SKKU, Team Manager (2018.03 - 2019.02)<br></li>
 </ul>
