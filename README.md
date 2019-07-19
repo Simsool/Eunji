@@ -1,2 +1,5 @@
 <h3>EunJi Sim</h3><hr>
-<h6>About Me</h6>
+<h6>Education</h6>
+<ul><li><b>SungKyunKwan University</b><br>Bachelor in Computer Science (2015.03 - 2020.02)<br>
+  </li>
+  </ul>
